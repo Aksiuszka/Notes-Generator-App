@@ -1,0 +1,40 @@
+{
+  "notes": [
+    {
+      "title": "Symulacje z University Colorado",
+      "text": "Obejrzyj trzy prezentacje ze strony : https://phet.colorado.edu/ i zrób notatki",
+      "kategoria": "fizyka",
+      "id": 1
+    },
+    {
+      "title": "Zrób notatki z wykładów z IO",
+      "text": "Zrób notatki z pierwszego wykładu z IO",
+      "kategoria": "io",
+      "id": 2
+    },
+    {
+      "title": "Znajdź zadania ze zbiorów",
+      "text": "Znajdź zadania z 1 wykładu z matematyki dyskretnej",
+      "kategoria": "matematyka",
+      "id": 3
+    },
+    {
+      "title": "Platforma",
+      "text": "Pierwszy dział z angielskiego",
+      "kategoria": "angielski",
+      "id": 4
+    },
+    {
+      "title": "Wysłać kserówki",
+      "text": "wyślij grupie xero z zajęć",
+      "kategoria": "angielski",
+      "id": 5
+    },
+    {
+      "title": "Notatki z matematyki",
+      "text": "Napisz notatki z wykładów",
+      "kategoria": "matematyka",
+      "id": 6
+    }
+  ]
+}
